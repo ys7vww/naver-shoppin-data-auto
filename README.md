@@ -1,0 +1,1 @@
+# naver-shoppin-data-auto
